@@ -1,0 +1,9 @@
+/* Stlye for Info Box */
+#content {
+    border: 2px solid black;
+   margin-top: 50px;
+   margin-bottom: 30px; 
+}
+#portfolio {
+    margin-top: 50px;
+}
