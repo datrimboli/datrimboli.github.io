@@ -1,11 +1,8 @@
-#aboutme {
-    border: black;
-}
-
+/* Style for photo of me */
 #picture {
     margin-top: 50px
 }
-
+/* Style for text about me */
 #picturetext {
     margin-top: 50px;
 }
