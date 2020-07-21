@@ -1,5 +1,13 @@
 /* Stlye for Info Box */
 #content {
     border: 2px solid black;
+    border-radius: 10px;
    margin-top: 50px;
+}
+#marginb {
+    margin-bottom: 20px;
+}
+
+#martint {
+    margin-top: 20px ;
 }
